@@ -18,3 +18,8 @@ Foto de cottonbro studio: https://www.pexels.com/pt-br/foto/animal-bicho-tigela-
 Foto de Karin Chantanaprayura: https://www.pexels.com/pt-br/foto/animal-bicho-tomando-banho-banho-7224651/
 
 Foto de Blue Bird: https://www.pexels.com/pt-br/foto/adoravel-encantador-cativante-adulto-7210360/
+
+Exemplo do projeto:
+
+![Alt text](img/projeto-petshopt-readme.png)
+
