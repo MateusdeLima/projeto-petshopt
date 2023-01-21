@@ -1,4 +1,13 @@
-Fontes das Imagens Utilizadas:
+####Projeto Petshopt####
+
+
+
+
+Exemplo do projeto:
+
+![Alt text](img/projeto-petshopt-readme.png)
+
+Fontes das Imagens Utilizadas: <br>
 <a href="https://br.freepik.com/fotos-gratis/adoravel-cachorro-basenji-marrom-e-branco-sorrindo-e-dando-mais-uns-cinco-isolado-no-branco_11829591.htm#query=animal&position=1&from_view=search&track=sph">Imagem de bublikhaus</a> no Freepik
 
 Foto de Arina Krasnikova: https://www.pexels.com/pt-br/foto/tapete-carpete-gatos-fofo-7725966/
@@ -18,8 +27,4 @@ Foto de cottonbro studio: https://www.pexels.com/pt-br/foto/animal-bicho-tigela-
 Foto de Karin Chantanaprayura: https://www.pexels.com/pt-br/foto/animal-bicho-tomando-banho-banho-7224651/
 
 Foto de Blue Bird: https://www.pexels.com/pt-br/foto/adoravel-encantador-cativante-adulto-7210360/
-
-Exemplo do projeto:
-
-![Alt text](img/projeto-petshopt-readme.png)
 
