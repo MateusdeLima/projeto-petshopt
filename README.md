@@ -6,7 +6,7 @@
 Exemplo do projeto:
 
 ![Alt text](img/projeto-petshopt-readme.png)
-
+![Alt text](img/rodap%C3%A9-github.png)
 Fontes das Imagens Utilizadas: <br>
 <a href="https://br.freepik.com/fotos-gratis/adoravel-cachorro-basenji-marrom-e-branco-sorrindo-e-dando-mais-uns-cinco-isolado-no-branco_11829591.htm#query=animal&position=1&from_view=search&track=sph">Imagem de bublikhaus</a> no Freepik
 
