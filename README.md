@@ -1,9 +1,12 @@
 ####Projeto Petshopt####
 
-PetshopT é um projeto pessoal baseado e inpirado em um dos projetos disponibilizados pela Udemy que seria o projeto Finans onde a tecnologia utilizada é o
+PetshopT é um projeto pessoal baseado e inpirado em exemoplos onde a tecnologia utilizada é o
 bootstrap um framework de front-end composto de HTML, CSS e Javascript, onde conseguimos com classes em CSS desenvolver sites muito interessantes e profissionais, 
 alem disso conseguimos aplicar, de maneira muito facil desings responsivos que o ponto principal que queremos exemplificar nesse projeto. Desing responsivo consegue 
 se adaptar a diversos tipos de telas e dipositivos.
+<br/>
+Entre e teste: https://mateusdelima.github.io/projeto-petshopt/
+
 <hr>
 Exemplos do projeto:
 
