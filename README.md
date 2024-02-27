@@ -23,17 +23,12 @@ Resposividade:
 
 Menu hamburguer.
 
-![PetshoT3-github](https://user-images.githubusercontent.com/89278014/213831024-12cbe3cb-93da-4c96-8459-5f2c56a52128.gif)
-
 ![PetshoT4-github](https://user-images.githubusercontent.com/89278014/213831124-40581d70-e762-4377-8b8b-c2ac722277a5.gif)
 
 Imagigens sumindo para melhor vizualização.
 
 ![PetshoT5-github](https://user-images.githubusercontent.com/89278014/213831234-b4fc6708-b14e-42bb-a8df-9b1beadf9f9d.gif)
 
-Em seu menor tamanho.
-
-![PetshoT6-github](https://user-images.githubusercontent.com/89278014/213831362-108475f2-13c6-43a9-89b0-6511a5236708.gif)
 
 <hr>
 >>>>>>> a696544483ce21e85741852c21ba2441a3706f5d
