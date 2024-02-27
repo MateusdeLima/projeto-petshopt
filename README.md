@@ -11,11 +11,6 @@ Entre e teste: https://mateusdelima.github.io/projeto-petshopt/
 Exemplos do projeto:
 
 
-![Alt text](img/projeto-petshopt-readme.png)
-<<<<<<< HEAD
-
-=======
-
 Barra de Navegação e Carousel.
 
 ![PetshoT-github](https://user-images.githubusercontent.com/89278014/213829568-6d3673ac-cfd9-4c02-8748-8f6767000159.gif)
@@ -23,10 +18,6 @@ Barra de Navegação e Carousel.
 Conteudo.
 
 ![PetshoT2-github](https://user-images.githubusercontent.com/89278014/213830155-c16d6456-991a-4f8d-b20e-1c89317963ec.gif)
-
-Rodapé.
-
-![rodapé-github](https://user-images.githubusercontent.com/89278014/213830797-203788f4-63ac-4b13-b742-ec63676b1563.png)
 
 Resposividade:
 
