@@ -31,3 +31,34 @@ footer {
     padding: 10px 20px;
 }
 
+/* Estilos específicos para dispositivos menores */
+@media (max-width: 768px) {
+    .navbar-nav {
+        text-align: left; /* Alinha os botões à esquerda */
+    }
+    .navbar-nav .nav-item {
+        display: block; /* Cada botão em uma linha separada */
+        margin-bottom: 10px; /* Espaçamento entre os botões */
+    }
+    .navbar-nav .btn {
+        margin-left: 0; /* Remove o espaçamento à esquerda dos botões */
+    }
+    
+}
+
+/* Estilos específicos para dispositivos menores */
+@media (max-width: 768px) {
+    .col-md-4 {
+        width: 100%; /* Ocupa toda a largura disponível */
+        text-align: center; /* Centraliza o conteúdo */
+        margin-bottom: 20px; /* Espaçamento entre as colunas */
+    }
+    .col-md-4 img {
+        max-width: 100%; /* Imagens se ajustam à largura do contêiner */
+    }
+    .d-flex.justify-content-end {
+        justify-content: center; /* Centraliza os ícones sociais */
+    }
+}
+
+
